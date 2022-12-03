@@ -1,0 +1,15 @@
+{
+  "name": "etude-one",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "keywords": [
+    "Three.JS"
+  ],
+  "author": "Flávio DOrta",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.147.0"
+  }
+}
